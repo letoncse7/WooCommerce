@@ -1,6 +1,6 @@
 === Plugin Name ===
 Contributors: JM Redwan, SSLWIRELESS
-Tags: WooCommerce, Payment Gateway, fastpay
+Tags: WooCommerce, Payment Gateway, fastpayCash
 Requires at least: 3.3
 Tested up to: 3.5
 Stable tag: 1.2.2
