@@ -27,6 +27,14 @@ ay Payment gateway option at the checkout page
 2. Click on fastpay to edit the settings. If you do not see fastpay in the list at the top of the screen make sure you have activated the plugin in the WordPress Plugin Manager.
 3. Enable the Payment Method, name it FastPay (this will show up on the payment page your customer section), add in your store id and working key and select redirect url(URL you want fastpay to redirect after payment). Click Save.
 
+You can test with the following Merchant credentials:
+
+ Merchant ID: +9641684405075
+ 
+ Password: Password1@
+ 
+*** Note : For the live Merchant ID please contact with integration@fast-pay.cash
+
 == Changelog ==
 
 = 1.0 =
